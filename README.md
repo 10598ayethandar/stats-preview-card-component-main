@@ -2,19 +2,6 @@
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -27,6 +14,7 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://user-images.githubusercontent.com/51500606/140024670-2545d31a-931b-494a-9eae-f9dff2461bc2.png)
 
 
 ### Links
