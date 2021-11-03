@@ -61,6 +61,10 @@
        display: block; 
        opacity: 0.45;      
    }
+    table{
+        width:100%;
+     }
+
    td{
        text-transform: uppercase;
    }
