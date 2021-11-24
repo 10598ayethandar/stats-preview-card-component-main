@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/statspreviewcardcomponentmain-using-html-css-0UrZTWd_F)
 - Live Site URL: (https://10598ayethandar.github.io/stats-preview-card-component-main/)
 
 ## My process
